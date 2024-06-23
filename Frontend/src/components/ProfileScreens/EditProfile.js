@@ -80,7 +80,7 @@ const EditProfile = () => {
                                     value={email}
                                     onChange={(e) => setEmail(e.target.value)}
                                 />
-                                <label htmlFor="email">E-mail</label>
+                                <label htmlFor="email">Email</label>
 
                             </div>
 
@@ -94,7 +94,7 @@ const EditProfile = () => {
                                             <div>
                                                 <AiOutlineUpload />
                                                 <span>
-                                                    Change Profile Photo
+                                                    Change-Profile Photo
 
                                                 </span>
                                             </div>
